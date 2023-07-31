@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\traff_pic\code\traff-2w.mcppi
+Project1=code_pic.mcppi
+[ActiveProject]
+Index=1
